@@ -1,0 +1,16 @@
+{"time":"2025-05-24T10:56:23.466175373Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS 584 Term Project/wandb/run-20250524_105623-reuiriit/logs/debug-core.log"}
+{"time":"2025-05-24T10:56:23.867386584Z","level":"INFO","msg":"created new stream","id":"reuiriit"}
+{"time":"2025-05-24T10:56:23.867452441Z","level":"INFO","msg":"stream: started","id":"reuiriit"}
+{"time":"2025-05-24T10:56:23.867587454Z","level":"INFO","msg":"writer: Do: started","stream_id":"reuiriit"}
+{"time":"2025-05-24T10:56:23.867731045Z","level":"INFO","msg":"handler: started","stream_id":"reuiriit"}
+{"time":"2025-05-24T10:56:23.867745335Z","level":"INFO","msg":"sender: started","stream_id":"reuiriit"}
+{"time":"2025-05-24T10:56:24.177785468Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-24T10:56:27.276864015Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-24T10:56:27.27693919Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-24T10:56:28.242154831Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.383750627,"progress":"847B/847B"}],"total_operations":1}}
+{"time":"2025-05-24T10:56:28.265864143Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-24T10:56:28.58763529Z","level":"INFO","msg":"stream: closing","id":"reuiriit"}
+{"time":"2025-05-24T10:56:28.587681833Z","level":"INFO","msg":"handler: closed","stream_id":"reuiriit"}
+{"time":"2025-05-24T10:56:28.587699059Z","level":"INFO","msg":"writer: Close: closed","stream_id":"reuiriit"}
+{"time":"2025-05-24T10:56:28.587726798Z","level":"INFO","msg":"sender: closed","stream_id":"reuiriit"}
+{"time":"2025-05-24T10:56:28.587814476Z","level":"INFO","msg":"stream: closed","id":"reuiriit"}

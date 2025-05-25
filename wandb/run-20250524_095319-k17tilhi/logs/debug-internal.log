@@ -1,0 +1,18 @@
+{"time":"2025-05-24T09:53:19.52300302Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS 584 Term Project/wandb/run-20250524_095319-k17tilhi/logs/debug-core.log"}
+{"time":"2025-05-24T09:53:19.908254505Z","level":"INFO","msg":"created new stream","id":"k17tilhi"}
+{"time":"2025-05-24T09:53:19.908298634Z","level":"INFO","msg":"stream: started","id":"k17tilhi"}
+{"time":"2025-05-24T09:53:19.908371574Z","level":"INFO","msg":"writer: Do: started","stream_id":"k17tilhi"}
+{"time":"2025-05-24T09:53:19.908422757Z","level":"INFO","msg":"handler: started","stream_id":"k17tilhi"}
+{"time":"2025-05-24T09:53:19.908673326Z","level":"INFO","msg":"sender: started","stream_id":"k17tilhi"}
+{"time":"2025-05-24T09:53:20.142970111Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-24T09:53:23.07728902Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-24T09:53:23.209768096Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-24T09:53:23.292472615Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-24T09:53:23.292513128Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-24T09:53:24.209077092Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-24T09:53:24.296832294Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.087603535}],"total_operations":1}}
+{"time":"2025-05-24T09:53:24.526012709Z","level":"INFO","msg":"stream: closing","id":"k17tilhi"}
+{"time":"2025-05-24T09:53:24.526032313Z","level":"INFO","msg":"handler: closed","stream_id":"k17tilhi"}
+{"time":"2025-05-24T09:53:24.526043228Z","level":"INFO","msg":"writer: Close: closed","stream_id":"k17tilhi"}
+{"time":"2025-05-24T09:53:24.526063546Z","level":"INFO","msg":"sender: closed","stream_id":"k17tilhi"}
+{"time":"2025-05-24T09:53:24.526120247Z","level":"INFO","msg":"stream: closed","id":"k17tilhi"}
