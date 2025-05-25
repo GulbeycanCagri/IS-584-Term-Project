@@ -1,0 +1,16 @@
+{"time":"2025-05-24T09:47:38.181381317Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS 584 Term Project/wandb/run-20250524_094738-hgwel10c/logs/debug-core.log"}
+{"time":"2025-05-24T09:47:38.628951822Z","level":"INFO","msg":"created new stream","id":"hgwel10c"}
+{"time":"2025-05-24T09:47:38.629036661Z","level":"INFO","msg":"stream: started","id":"hgwel10c"}
+{"time":"2025-05-24T09:47:38.629155521Z","level":"INFO","msg":"writer: Do: started","stream_id":"hgwel10c"}
+{"time":"2025-05-24T09:47:38.629269144Z","level":"INFO","msg":"handler: started","stream_id":"hgwel10c"}
+{"time":"2025-05-24T09:47:38.62927252Z","level":"INFO","msg":"sender: started","stream_id":"hgwel10c"}
+{"time":"2025-05-24T09:47:38.843774674Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-24T09:47:42.267606606Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-24T09:47:42.267750423Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-24T09:47:43.231410192Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.711972545},{"desc":"uploading config.yaml","runtime_seconds":0.404610403,"progress":"841B/841B"}],"total_operations":2}}
+{"time":"2025-05-24T09:47:43.364782705Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-24T09:47:43.777564075Z","level":"INFO","msg":"stream: closing","id":"hgwel10c"}
+{"time":"2025-05-24T09:47:43.777644753Z","level":"INFO","msg":"handler: closed","stream_id":"hgwel10c"}
+{"time":"2025-05-24T09:47:43.77768251Z","level":"INFO","msg":"writer: Close: closed","stream_id":"hgwel10c"}
+{"time":"2025-05-24T09:47:43.777723837Z","level":"INFO","msg":"sender: closed","stream_id":"hgwel10c"}
+{"time":"2025-05-24T09:47:43.778020292Z","level":"INFO","msg":"stream: closed","id":"hgwel10c"}

@@ -1,0 +1,8 @@
+{"time":"2025-05-21T05:26:17.546637405Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS 584 Term Project/wandb/run-20250521_052617-4wy7qipf/logs/debug-core.log"}
+{"time":"2025-05-21T05:26:17.952363041Z","level":"INFO","msg":"created new stream","id":"4wy7qipf"}
+{"time":"2025-05-21T05:26:17.952463673Z","level":"INFO","msg":"stream: started","id":"4wy7qipf"}
+{"time":"2025-05-21T05:26:17.952647709Z","level":"INFO","msg":"writer: Do: started","stream_id":"4wy7qipf"}
+{"time":"2025-05-21T05:26:17.952811012Z","level":"INFO","msg":"handler: started","stream_id":"4wy7qipf"}
+{"time":"2025-05-21T05:26:17.952876674Z","level":"INFO","msg":"sender: started","stream_id":"4wy7qipf"}
+{"time":"2025-05-21T05:26:18.202457803Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-21T21:03:41.011346264Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.104:44090->35.186.228.49:443: read: connection reset by peer"}

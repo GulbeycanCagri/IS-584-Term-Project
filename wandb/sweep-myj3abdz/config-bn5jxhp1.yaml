@@ -1,0 +1,6 @@
+wandb_version: 1
+
+lora_alpha:
+  value: 16
+r:
+  value: 4

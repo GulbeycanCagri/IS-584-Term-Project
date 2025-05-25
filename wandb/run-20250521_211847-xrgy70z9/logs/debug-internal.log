@@ -1,0 +1,17 @@
+{"time":"2025-05-21T21:18:47.538196695Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS 584 Term Project/wandb/run-20250521_211847-xrgy70z9/logs/debug-core.log"}
+{"time":"2025-05-21T21:18:48.012387362Z","level":"INFO","msg":"created new stream","id":"xrgy70z9"}
+{"time":"2025-05-21T21:18:48.012491422Z","level":"INFO","msg":"stream: started","id":"xrgy70z9"}
+{"time":"2025-05-21T21:18:48.012543934Z","level":"INFO","msg":"writer: Do: started","stream_id":"xrgy70z9"}
+{"time":"2025-05-21T21:18:48.012717515Z","level":"INFO","msg":"handler: started","stream_id":"xrgy70z9"}
+{"time":"2025-05-21T21:18:48.012753218Z","level":"INFO","msg":"sender: started","stream_id":"xrgy70z9"}
+{"time":"2025-05-21T21:18:48.297568221Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-21T23:48:51.741492565Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-21T23:48:51.899132118Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-22T05:54:55.588943297Z","level":"INFO","msg":"stream: closing","id":"xrgy70z9"}
+{"time":"2025-05-22T05:54:55.58902979Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-22T05:54:55.589085033Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-22T05:54:56.479124571Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-22T05:54:56.849618844Z","level":"INFO","msg":"handler: closed","stream_id":"xrgy70z9"}
+{"time":"2025-05-22T05:54:56.849709801Z","level":"INFO","msg":"writer: Close: closed","stream_id":"xrgy70z9"}
+{"time":"2025-05-22T05:54:56.849770752Z","level":"INFO","msg":"sender: closed","stream_id":"xrgy70z9"}
+{"time":"2025-05-22T05:54:56.849882597Z","level":"INFO","msg":"stream: closed","id":"xrgy70z9"}

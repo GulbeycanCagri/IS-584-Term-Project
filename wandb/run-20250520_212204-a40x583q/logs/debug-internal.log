@@ -1,0 +1,11 @@
+{"time":"2025-05-20T21:22:04.812460962Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS 584 Term Project/wandb/run-20250520_212204-a40x583q/logs/debug-core.log"}
+{"time":"2025-05-20T21:22:05.240808915Z","level":"INFO","msg":"created new stream","id":"a40x583q"}
+{"time":"2025-05-20T21:22:05.240931075Z","level":"INFO","msg":"stream: started","id":"a40x583q"}
+{"time":"2025-05-20T21:22:05.241107389Z","level":"INFO","msg":"sender: started","stream_id":"a40x583q"}
+{"time":"2025-05-20T21:22:05.241133509Z","level":"INFO","msg":"writer: Do: started","stream_id":"a40x583q"}
+{"time":"2025-05-20T21:22:05.2412242Z","level":"INFO","msg":"handler: started","stream_id":"a40x583q"}
+{"time":"2025-05-20T21:22:05.655849297Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-20T21:38:10.151141472Z","level":"INFO","msg":"stream: closing","id":"a40x583q"}
+{"time":"2025-05-20T21:38:10.151192466Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-20T21:38:10.151359067Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-20T21:38:11.492157512Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

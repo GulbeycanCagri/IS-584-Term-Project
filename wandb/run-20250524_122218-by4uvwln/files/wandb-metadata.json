@@ -1,0 +1,41 @@
+{
+  "os": "Linux-6.8.0-60-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-05-24T12:22:18.141046Z",
+  "program": "PreeliminaryResults.ipynb",
+  "codePath": "PreeliminaryResults.ipynb",
+  "git": {
+    "commit": "a4e278512834dc34dded1e477d9e8f38cdd84bdd"
+  },
+  "email": "e274028@metu.edu.tr",
+  "root": "/home/cagri/Desktop/IS 584 Term Project",
+  "host": "cagri-Victus-by-HP-Laptop-16-d1xxx",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "PreeliminaryResults.ipynb",
+  "cpu_count": 14,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "502392610816",
+      "used": "423631532032"
+    }
+  },
+  "memory": {
+    "total": "16413343744"
+  },
+  "cpu": {
+    "count": 14,
+    "countLogical": 20
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

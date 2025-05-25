@@ -1,0 +1,21 @@
+{"time":"2025-05-20T21:39:41.676067676Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS 584 Term Project/wandb/run-20250520_213941-i8c3li01/logs/debug-core.log"}
+{"time":"2025-05-20T21:39:42.11786235Z","level":"INFO","msg":"created new stream","id":"i8c3li01"}
+{"time":"2025-05-20T21:39:42.117985592Z","level":"INFO","msg":"stream: started","id":"i8c3li01"}
+{"time":"2025-05-20T21:39:42.118133061Z","level":"INFO","msg":"writer: Do: started","stream_id":"i8c3li01"}
+{"time":"2025-05-20T21:39:42.118256176Z","level":"INFO","msg":"handler: started","stream_id":"i8c3li01"}
+{"time":"2025-05-20T21:39:42.118317731Z","level":"INFO","msg":"sender: started","stream_id":"i8c3li01"}
+{"time":"2025-05-20T21:39:42.382818703Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-21T00:09:46.666197371Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-21T00:11:38.726054506Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-21T00:43:23.999545102Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/e274028-metu-middle-east-technical-university/huggingface/i8c3li01/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-05-21T04:43:23.998657288Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/e274028-metu-middle-east-technical-university/huggingface/i8c3li01/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-05-21T05:25:38.863638896Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-21T05:25:39.121268389Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-21T05:26:00.368653266Z","level":"INFO","msg":"stream: closing","id":"i8c3li01"}
+{"time":"2025-05-21T05:26:00.368729822Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-21T05:26:00.368792662Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-21T05:26:01.155030482Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-21T05:26:01.465191483Z","level":"INFO","msg":"handler: closed","stream_id":"i8c3li01"}
+{"time":"2025-05-21T05:26:01.465288529Z","level":"INFO","msg":"sender: closed","stream_id":"i8c3li01"}
+{"time":"2025-05-21T05:26:01.465263868Z","level":"INFO","msg":"writer: Close: closed","stream_id":"i8c3li01"}
+{"time":"2025-05-21T05:26:01.465595264Z","level":"INFO","msg":"stream: closed","id":"i8c3li01"}

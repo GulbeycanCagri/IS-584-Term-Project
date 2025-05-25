@@ -1,0 +1,7 @@
+{"time":"2025-05-25T15:21:39.590210174Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS 584 Term Project/wandb/run-20250525_152139-pfqcd28o/logs/debug-core.log"}
+{"time":"2025-05-25T15:21:40.008142153Z","level":"INFO","msg":"created new stream","id":"pfqcd28o"}
+{"time":"2025-05-25T15:21:40.008183625Z","level":"INFO","msg":"stream: started","id":"pfqcd28o"}
+{"time":"2025-05-25T15:21:40.008272786Z","level":"INFO","msg":"writer: Do: started","stream_id":"pfqcd28o"}
+{"time":"2025-05-25T15:21:40.00830496Z","level":"INFO","msg":"sender: started","stream_id":"pfqcd28o"}
+{"time":"2025-05-25T15:21:40.008359361Z","level":"INFO","msg":"handler: started","stream_id":"pfqcd28o"}
+{"time":"2025-05-25T15:21:40.255641271Z","level":"INFO","msg":"Starting system monitor"}
