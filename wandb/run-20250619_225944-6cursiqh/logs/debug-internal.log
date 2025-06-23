@@ -1,0 +1,16 @@
+{"time":"2025-06-19T22:59:45.000513111Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250619_225944-6cursiqh/logs/debug-core.log"}
+{"time":"2025-06-19T22:59:45.401234106Z","level":"INFO","msg":"created new stream","id":"6cursiqh"}
+{"time":"2025-06-19T22:59:45.401261432Z","level":"INFO","msg":"stream: started","id":"6cursiqh"}
+{"time":"2025-06-19T22:59:45.401330632Z","level":"INFO","msg":"writer: Do: started","stream_id":"6cursiqh"}
+{"time":"2025-06-19T22:59:45.401443287Z","level":"INFO","msg":"handler: started","stream_id":"6cursiqh"}
+{"time":"2025-06-19T22:59:45.401457924Z","level":"INFO","msg":"sender: started","stream_id":"6cursiqh"}
+{"time":"2025-06-19T22:59:45.63340386Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-19T22:59:50.610894382Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-19T22:59:50.61093069Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-19T22:59:51.57226681Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.330290349,"progress":"876B/876B"}],"total_operations":1}}
+{"time":"2025-06-19T22:59:51.652999846Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-19T22:59:51.962190058Z","level":"INFO","msg":"stream: closing","id":"6cursiqh"}
+{"time":"2025-06-19T22:59:51.962200858Z","level":"INFO","msg":"handler: closed","stream_id":"6cursiqh"}
+{"time":"2025-06-19T22:59:51.962205519Z","level":"INFO","msg":"writer: Close: closed","stream_id":"6cursiqh"}
+{"time":"2025-06-19T22:59:51.962217372Z","level":"INFO","msg":"sender: closed","stream_id":"6cursiqh"}
+{"time":"2025-06-19T22:59:51.962240092Z","level":"INFO","msg":"stream: closed","id":"6cursiqh"}

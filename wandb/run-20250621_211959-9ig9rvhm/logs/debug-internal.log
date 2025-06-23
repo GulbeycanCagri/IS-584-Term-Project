@@ -1,0 +1,16 @@
+{"time":"2025-06-21T21:19:59.425101903Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250621_211959-9ig9rvhm/logs/debug-core.log"}
+{"time":"2025-06-21T21:19:59.829361944Z","level":"INFO","msg":"created new stream","id":"9ig9rvhm"}
+{"time":"2025-06-21T21:19:59.829386686Z","level":"INFO","msg":"stream: started","id":"9ig9rvhm"}
+{"time":"2025-06-21T21:19:59.829400199Z","level":"INFO","msg":"sender: started","stream_id":"9ig9rvhm"}
+{"time":"2025-06-21T21:19:59.829399191Z","level":"INFO","msg":"writer: Do: started","stream_id":"9ig9rvhm"}
+{"time":"2025-06-21T21:19:59.829436972Z","level":"INFO","msg":"handler: started","stream_id":"9ig9rvhm"}
+{"time":"2025-06-21T21:20:00.242009919Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-21T21:20:00.374053533Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-21T21:20:00.374112366Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-21T21:20:01.349820457Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.25403923},{"desc":"uploading wandb-summary.json","runtime_seconds":0.254035245,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-06-21T21:20:01.624664158Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-21T21:20:01.983485775Z","level":"INFO","msg":"stream: closing","id":"9ig9rvhm"}
+{"time":"2025-06-21T21:20:01.983496371Z","level":"INFO","msg":"handler: closed","stream_id":"9ig9rvhm"}
+{"time":"2025-06-21T21:20:01.983503463Z","level":"INFO","msg":"writer: Close: closed","stream_id":"9ig9rvhm"}
+{"time":"2025-06-21T21:20:01.98350929Z","level":"INFO","msg":"sender: closed","stream_id":"9ig9rvhm"}
+{"time":"2025-06-21T21:20:01.983549836Z","level":"INFO","msg":"stream: closed","id":"9ig9rvhm"}

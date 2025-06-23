@@ -1,0 +1,17 @@
+{"time":"2025-06-22T12:49:48.517147146Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250622_124948-d4l7z3us/logs/debug-core.log"}
+{"time":"2025-06-22T12:49:48.850282945Z","level":"INFO","msg":"created new stream","id":"d4l7z3us"}
+{"time":"2025-06-22T12:49:48.850297917Z","level":"INFO","msg":"stream: started","id":"d4l7z3us"}
+{"time":"2025-06-22T12:49:48.850330175Z","level":"INFO","msg":"writer: Do: started","stream_id":"d4l7z3us"}
+{"time":"2025-06-22T12:49:48.850370826Z","level":"INFO","msg":"sender: started","stream_id":"d4l7z3us"}
+{"time":"2025-06-22T12:49:48.850437003Z","level":"INFO","msg":"handler: started","stream_id":"d4l7z3us"}
+{"time":"2025-06-22T12:49:49.117622622Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T12:49:51.336051355Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T12:49:51.336097983Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T12:49:52.296368566Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.339782494,"progress":"920B/920B"}],"total_operations":1}}
+{"time":"2025-06-22T12:49:52.571324573Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T12:50:02.573016327Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/e274028-metu-middle-east-technical-university/tinyllama-fewshot/d4l7z3us/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:33742->127.0.0.53:53: i/o timeout"}
+{"time":"2025-06-22T12:50:04.966441818Z","level":"INFO","msg":"stream: closing","id":"d4l7z3us"}
+{"time":"2025-06-22T12:50:04.966451901Z","level":"INFO","msg":"handler: closed","stream_id":"d4l7z3us"}
+{"time":"2025-06-22T12:50:04.966457894Z","level":"INFO","msg":"writer: Close: closed","stream_id":"d4l7z3us"}
+{"time":"2025-06-22T12:50:04.966468323Z","level":"INFO","msg":"sender: closed","stream_id":"d4l7z3us"}
+{"time":"2025-06-22T12:50:04.966493196Z","level":"INFO","msg":"stream: closed","id":"d4l7z3us"}

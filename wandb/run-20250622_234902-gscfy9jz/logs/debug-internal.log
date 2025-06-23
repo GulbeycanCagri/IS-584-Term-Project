@@ -1,0 +1,16 @@
+{"time":"2025-06-22T23:49:02.738051948Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250622_234902-gscfy9jz/logs/debug-core.log"}
+{"time":"2025-06-22T23:49:03.141215435Z","level":"INFO","msg":"created new stream","id":"gscfy9jz"}
+{"time":"2025-06-22T23:49:03.141231021Z","level":"INFO","msg":"stream: started","id":"gscfy9jz"}
+{"time":"2025-06-22T23:49:03.141274464Z","level":"INFO","msg":"writer: Do: started","stream_id":"gscfy9jz"}
+{"time":"2025-06-22T23:49:03.14131807Z","level":"INFO","msg":"handler: started","stream_id":"gscfy9jz"}
+{"time":"2025-06-22T23:49:03.141342667Z","level":"INFO","msg":"sender: started","stream_id":"gscfy9jz"}
+{"time":"2025-06-22T23:49:03.421122082Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T23:50:01.30108162Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T23:50:01.301151339Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T23:50:02.535294158Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T23:52:30.00447468Z","level":"INFO","msg":"stream: closing","id":"gscfy9jz"}
+{"time":"2025-06-22T23:52:30.004493384Z","level":"INFO","msg":"handler: closed","stream_id":"gscfy9jz"}
+{"time":"2025-06-22T23:52:30.004532296Z","level":"INFO","msg":"writer: Close: closed","stream_id":"gscfy9jz"}
+{"time":"2025-06-22T23:52:30.004545177Z","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2025-06-22T23:52:30.004549782Z","level":"INFO","msg":"sender: closed","stream_id":"gscfy9jz"}
+{"time":"2025-06-22T23:52:30.00457829Z","level":"INFO","msg":"stream: closed","id":"gscfy9jz"}

@@ -1,0 +1,6 @@
+wandb_version: 1
+
+max_length:
+  value: 768
+n_shots:
+  value: 2

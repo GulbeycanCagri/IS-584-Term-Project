@@ -1,0 +1,16 @@
+{"time":"2025-06-23T07:00:09.561235467Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250623_070009-tio35mvz/logs/debug-core.log"}
+{"time":"2025-06-23T07:00:09.957853735Z","level":"INFO","msg":"created new stream","id":"tio35mvz"}
+{"time":"2025-06-23T07:00:09.957878439Z","level":"INFO","msg":"stream: started","id":"tio35mvz"}
+{"time":"2025-06-23T07:00:09.957916582Z","level":"INFO","msg":"writer: Do: started","stream_id":"tio35mvz"}
+{"time":"2025-06-23T07:00:09.957961331Z","level":"INFO","msg":"sender: started","stream_id":"tio35mvz"}
+{"time":"2025-06-23T07:00:09.95799106Z","level":"INFO","msg":"handler: started","stream_id":"tio35mvz"}
+{"time":"2025-06-23T07:00:10.253113001Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-23T07:05:50.682075968Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-23T07:05:50.682182376Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-23T07:05:51.637512167Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-23T07:05:51.644141643Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.006579849}],"total_operations":1}}
+{"time":"2025-06-23T07:05:51.980684333Z","level":"INFO","msg":"stream: closing","id":"tio35mvz"}
+{"time":"2025-06-23T07:05:51.980698854Z","level":"INFO","msg":"handler: closed","stream_id":"tio35mvz"}
+{"time":"2025-06-23T07:05:51.980704264Z","level":"INFO","msg":"writer: Close: closed","stream_id":"tio35mvz"}
+{"time":"2025-06-23T07:05:51.980765662Z","level":"INFO","msg":"sender: closed","stream_id":"tio35mvz"}
+{"time":"2025-06-23T07:05:51.980780249Z","level":"INFO","msg":"stream: closed","id":"tio35mvz"}

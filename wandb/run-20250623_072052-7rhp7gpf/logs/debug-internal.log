@@ -1,0 +1,15 @@
+{"time":"2025-06-23T07:20:52.294081257Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250623_072052-7rhp7gpf/logs/debug-core.log"}
+{"time":"2025-06-23T07:20:52.696853495Z","level":"INFO","msg":"created new stream","id":"7rhp7gpf"}
+{"time":"2025-06-23T07:20:52.696866731Z","level":"INFO","msg":"stream: started","id":"7rhp7gpf"}
+{"time":"2025-06-23T07:20:52.696958881Z","level":"INFO","msg":"writer: Do: started","stream_id":"7rhp7gpf"}
+{"time":"2025-06-23T07:20:52.697001325Z","level":"INFO","msg":"handler: started","stream_id":"7rhp7gpf"}
+{"time":"2025-06-23T07:20:52.697009291Z","level":"INFO","msg":"sender: started","stream_id":"7rhp7gpf"}
+{"time":"2025-06-23T07:20:52.903971131Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-23T07:22:24.323535567Z","level":"INFO","msg":"stream: closing","id":"7rhp7gpf"}
+{"time":"2025-06-23T07:22:24.323565543Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-23T07:22:24.32359578Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-23T07:22:25.125635842Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-23T07:22:25.472796047Z","level":"INFO","msg":"handler: closed","stream_id":"7rhp7gpf"}
+{"time":"2025-06-23T07:22:25.472823728Z","level":"INFO","msg":"writer: Close: closed","stream_id":"7rhp7gpf"}
+{"time":"2025-06-23T07:22:25.472853147Z","level":"INFO","msg":"sender: closed","stream_id":"7rhp7gpf"}
+{"time":"2025-06-23T07:22:25.472860582Z","level":"INFO","msg":"stream: closed","id":"7rhp7gpf"}

@@ -1,0 +1,16 @@
+{"time":"2025-06-23T08:09:49.778571744Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250623_080949-veou8kgc/logs/debug-core.log"}
+{"time":"2025-06-23T08:09:50.115166533Z","level":"INFO","msg":"created new stream","id":"veou8kgc"}
+{"time":"2025-06-23T08:09:50.115184278Z","level":"INFO","msg":"stream: started","id":"veou8kgc"}
+{"time":"2025-06-23T08:09:50.115289496Z","level":"INFO","msg":"writer: Do: started","stream_id":"veou8kgc"}
+{"time":"2025-06-23T08:09:50.115291962Z","level":"INFO","msg":"handler: started","stream_id":"veou8kgc"}
+{"time":"2025-06-23T08:09:50.115295271Z","level":"INFO","msg":"sender: started","stream_id":"veou8kgc"}
+{"time":"2025-06-23T08:09:50.34650937Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-23T08:09:52.270778507Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-23T08:09:52.270904118Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-23T08:09:53.038485359Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-23T08:09:53.231867305Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.193312617}],"total_operations":1}}
+{"time":"2025-06-23T08:09:53.331196071Z","level":"INFO","msg":"stream: closing","id":"veou8kgc"}
+{"time":"2025-06-23T08:09:53.331230114Z","level":"INFO","msg":"handler: closed","stream_id":"veou8kgc"}
+{"time":"2025-06-23T08:09:53.331241177Z","level":"INFO","msg":"writer: Close: closed","stream_id":"veou8kgc"}
+{"time":"2025-06-23T08:09:53.331251917Z","level":"INFO","msg":"sender: closed","stream_id":"veou8kgc"}
+{"time":"2025-06-23T08:09:53.331392387Z","level":"INFO","msg":"stream: closed","id":"veou8kgc"}

@@ -1,0 +1,16 @@
+{"time":"2025-06-19T23:10:31.971850565Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250619_231031-xi96hvfu/logs/debug-core.log"}
+{"time":"2025-06-19T23:10:32.3758791Z","level":"INFO","msg":"created new stream","id":"xi96hvfu"}
+{"time":"2025-06-19T23:10:32.375897279Z","level":"INFO","msg":"stream: started","id":"xi96hvfu"}
+{"time":"2025-06-19T23:10:32.375912045Z","level":"INFO","msg":"writer: Do: started","stream_id":"xi96hvfu"}
+{"time":"2025-06-19T23:10:32.376000322Z","level":"INFO","msg":"handler: started","stream_id":"xi96hvfu"}
+{"time":"2025-06-19T23:10:32.376009879Z","level":"INFO","msg":"sender: started","stream_id":"xi96hvfu"}
+{"time":"2025-06-19T23:10:32.608733248Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-19T23:10:38.811577818Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-19T23:10:38.811625091Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-19T23:10:39.813788034Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.37208189,"progress":"5.6KB/5.6KB"}],"total_operations":1}}
+{"time":"2025-06-19T23:10:40.056944977Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-19T23:10:40.572655601Z","level":"INFO","msg":"stream: closing","id":"xi96hvfu"}
+{"time":"2025-06-19T23:10:40.572662732Z","level":"INFO","msg":"handler: closed","stream_id":"xi96hvfu"}
+{"time":"2025-06-19T23:10:40.572666976Z","level":"INFO","msg":"writer: Close: closed","stream_id":"xi96hvfu"}
+{"time":"2025-06-19T23:10:40.572677144Z","level":"INFO","msg":"sender: closed","stream_id":"xi96hvfu"}
+{"time":"2025-06-19T23:10:40.572701969Z","level":"INFO","msg":"stream: closed","id":"xi96hvfu"}

@@ -1,0 +1,17 @@
+{"time":"2025-06-22T12:27:25.081631356Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250622_122725-4tfnvj8p/logs/debug-core.log"}
+{"time":"2025-06-22T12:27:25.486396246Z","level":"INFO","msg":"created new stream","id":"4tfnvj8p"}
+{"time":"2025-06-22T12:27:25.48641276Z","level":"INFO","msg":"stream: started","id":"4tfnvj8p"}
+{"time":"2025-06-22T12:27:25.486431731Z","level":"INFO","msg":"sender: started","stream_id":"4tfnvj8p"}
+{"time":"2025-06-22T12:27:25.486463442Z","level":"INFO","msg":"handler: started","stream_id":"4tfnvj8p"}
+{"time":"2025-06-22T12:27:25.486431835Z","level":"INFO","msg":"writer: Do: started","stream_id":"4tfnvj8p"}
+{"time":"2025-06-22T12:27:25.712954924Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T12:27:27.59377982Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T12:27:27.593842545Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T12:27:28.374821191Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T12:27:28.55494468Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":2.237779331}],"total_operations":1}}
+{"time":"2025-06-22T12:27:36.318422651Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/e274028-metu-middle-east-technical-university/tinyllama-fewshot/4tfnvj8p/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:48797->127.0.0.53:53: i/o timeout"}
+{"time":"2025-06-22T12:27:39.109054482Z","level":"INFO","msg":"stream: closing","id":"4tfnvj8p"}
+{"time":"2025-06-22T12:27:39.109067079Z","level":"INFO","msg":"handler: closed","stream_id":"4tfnvj8p"}
+{"time":"2025-06-22T12:27:39.10907431Z","level":"INFO","msg":"writer: Close: closed","stream_id":"4tfnvj8p"}
+{"time":"2025-06-22T12:27:39.109080405Z","level":"INFO","msg":"sender: closed","stream_id":"4tfnvj8p"}
+{"time":"2025-06-22T12:27:39.109120243Z","level":"INFO","msg":"stream: closed","id":"4tfnvj8p"}

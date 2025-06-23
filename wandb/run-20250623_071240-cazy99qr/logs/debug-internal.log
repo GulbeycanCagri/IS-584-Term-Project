@@ -1,0 +1,15 @@
+{"time":"2025-06-23T07:12:40.563870881Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250623_071240-cazy99qr/logs/debug-core.log"}
+{"time":"2025-06-23T07:12:40.965840034Z","level":"INFO","msg":"created new stream","id":"cazy99qr"}
+{"time":"2025-06-23T07:12:40.965858493Z","level":"INFO","msg":"stream: started","id":"cazy99qr"}
+{"time":"2025-06-23T07:12:40.96586745Z","level":"INFO","msg":"writer: Do: started","stream_id":"cazy99qr"}
+{"time":"2025-06-23T07:12:40.96592579Z","level":"INFO","msg":"handler: started","stream_id":"cazy99qr"}
+{"time":"2025-06-23T07:12:40.965947698Z","level":"INFO","msg":"sender: started","stream_id":"cazy99qr"}
+{"time":"2025-06-23T07:12:41.186816987Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-23T07:16:57.561843633Z","level":"INFO","msg":"stream: closing","id":"cazy99qr"}
+{"time":"2025-06-23T07:16:57.56186377Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-23T07:16:57.561881418Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-23T07:16:58.41758723Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-23T07:16:58.8127698Z","level":"INFO","msg":"handler: closed","stream_id":"cazy99qr"}
+{"time":"2025-06-23T07:16:58.812796396Z","level":"INFO","msg":"writer: Close: closed","stream_id":"cazy99qr"}
+{"time":"2025-06-23T07:16:58.812822384Z","level":"INFO","msg":"sender: closed","stream_id":"cazy99qr"}
+{"time":"2025-06-23T07:16:58.812838917Z","level":"INFO","msg":"stream: closed","id":"cazy99qr"}

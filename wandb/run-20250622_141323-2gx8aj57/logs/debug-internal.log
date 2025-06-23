@@ -1,0 +1,19 @@
+{"time":"2025-06-22T14:13:23.985372531Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250622_141323-2gx8aj57/logs/debug-core.log"}
+{"time":"2025-06-22T14:13:24.326402951Z","level":"INFO","msg":"created new stream","id":"2gx8aj57"}
+{"time":"2025-06-22T14:13:24.326431065Z","level":"INFO","msg":"stream: started","id":"2gx8aj57"}
+{"time":"2025-06-22T14:13:24.32646799Z","level":"INFO","msg":"writer: Do: started","stream_id":"2gx8aj57"}
+{"time":"2025-06-22T14:13:24.326563032Z","level":"INFO","msg":"handler: started","stream_id":"2gx8aj57"}
+{"time":"2025-06-22T14:13:24.326570047Z","level":"INFO","msg":"sender: started","stream_id":"2gx8aj57"}
+{"time":"2025-06-22T14:13:24.534611629Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T14:14:20.16679887Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/e274028-metu-middle-east-technical-university/tinyllama-fewshot/2gx8aj57/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:37074->127.0.0.53:53: i/o timeout"}
+{"time":"2025-06-22T14:19:50.166502633Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/e274028-metu-middle-east-technical-university/tinyllama-fewshot/2gx8aj57/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:34260->127.0.0.53:53: i/o timeout"}
+{"time":"2025-06-22T14:20:20.166434752Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/e274028-metu-middle-east-technical-university/tinyllama-fewshot/2gx8aj57/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:38876->127.0.0.53:53: i/o timeout"}
+{"time":"2025-06-22T14:20:50.166993872Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/e274028-metu-middle-east-technical-university/tinyllama-fewshot/2gx8aj57/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:46925->127.0.0.53:53: i/o timeout"}
+{"time":"2025-06-22T14:30:21.664036027Z","level":"INFO","msg":"stream: closing","id":"2gx8aj57"}
+{"time":"2025-06-22T14:30:21.664061424Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T14:30:21.664088891Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T14:30:22.450821573Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T14:30:22.769613598Z","level":"INFO","msg":"handler: closed","stream_id":"2gx8aj57"}
+{"time":"2025-06-22T14:30:22.769651996Z","level":"INFO","msg":"writer: Close: closed","stream_id":"2gx8aj57"}
+{"time":"2025-06-22T14:30:22.769685746Z","level":"INFO","msg":"sender: closed","stream_id":"2gx8aj57"}
+{"time":"2025-06-22T14:30:22.769692314Z","level":"INFO","msg":"stream: closed","id":"2gx8aj57"}

@@ -1,0 +1,16 @@
+{"time":"2025-06-21T21:11:44.828420248Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250621_211144-trutj2jo/logs/debug-core.log"}
+{"time":"2025-06-21T21:11:45.231110552Z","level":"INFO","msg":"created new stream","id":"trutj2jo"}
+{"time":"2025-06-21T21:11:45.231140369Z","level":"INFO","msg":"stream: started","id":"trutj2jo"}
+{"time":"2025-06-21T21:11:45.231151804Z","level":"INFO","msg":"writer: Do: started","stream_id":"trutj2jo"}
+{"time":"2025-06-21T21:11:45.231188655Z","level":"INFO","msg":"handler: started","stream_id":"trutj2jo"}
+{"time":"2025-06-21T21:11:45.231199035Z","level":"INFO","msg":"sender: started","stream_id":"trutj2jo"}
+{"time":"2025-06-21T21:11:45.494033256Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-21T21:11:45.626974971Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-21T21:11:45.627039364Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-21T21:11:46.59121178Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.201180604},{"desc":"uploading wandb-summary.json","runtime_seconds":0.201172406,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-06-21T21:11:46.972283165Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-21T21:11:47.282851369Z","level":"INFO","msg":"stream: closing","id":"trutj2jo"}
+{"time":"2025-06-21T21:11:47.282859701Z","level":"INFO","msg":"handler: closed","stream_id":"trutj2jo"}
+{"time":"2025-06-21T21:11:47.28286843Z","level":"INFO","msg":"sender: closed","stream_id":"trutj2jo"}
+{"time":"2025-06-21T21:11:47.282865877Z","level":"INFO","msg":"writer: Close: closed","stream_id":"trutj2jo"}
+{"time":"2025-06-21T21:11:47.282902087Z","level":"INFO","msg":"stream: closed","id":"trutj2jo"}

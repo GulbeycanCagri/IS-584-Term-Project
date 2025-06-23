@@ -1,0 +1,15 @@
+{"time":"2025-06-22T22:54:55.089868929Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250622_225455-ed2jjlcr/logs/debug-core.log"}
+{"time":"2025-06-22T22:54:55.49247277Z","level":"INFO","msg":"created new stream","id":"ed2jjlcr"}
+{"time":"2025-06-22T22:54:55.492500021Z","level":"INFO","msg":"stream: started","id":"ed2jjlcr"}
+{"time":"2025-06-22T22:54:55.492591575Z","level":"INFO","msg":"writer: Do: started","stream_id":"ed2jjlcr"}
+{"time":"2025-06-22T22:54:55.492679538Z","level":"INFO","msg":"handler: started","stream_id":"ed2jjlcr"}
+{"time":"2025-06-22T22:54:55.49271253Z","level":"INFO","msg":"sender: started","stream_id":"ed2jjlcr"}
+{"time":"2025-06-22T22:54:55.790897131Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T22:55:50.894031034Z","level":"INFO","msg":"stream: closing","id":"ed2jjlcr"}
+{"time":"2025-06-22T22:55:50.894057679Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T22:55:50.894125114Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T22:55:51.709684679Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T22:55:52.119386Z","level":"INFO","msg":"handler: closed","stream_id":"ed2jjlcr"}
+{"time":"2025-06-22T22:55:52.119418317Z","level":"INFO","msg":"writer: Close: closed","stream_id":"ed2jjlcr"}
+{"time":"2025-06-22T22:55:52.119445633Z","level":"INFO","msg":"sender: closed","stream_id":"ed2jjlcr"}
+{"time":"2025-06-22T22:55:52.119449999Z","level":"INFO","msg":"stream: closed","id":"ed2jjlcr"}

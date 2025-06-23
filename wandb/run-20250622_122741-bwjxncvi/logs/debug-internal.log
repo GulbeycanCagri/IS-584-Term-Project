@@ -1,0 +1,17 @@
+{"time":"2025-06-22T12:27:41.739322795Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/cagri/Desktop/IS-584-Term-Project/wandb/run-20250622_122741-bwjxncvi/logs/debug-core.log"}
+{"time":"2025-06-22T12:27:51.844459443Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:39406->127.0.0.53:53: i/o timeout"}
+{"time":"2025-06-22T12:27:54.363573713Z","level":"INFO","msg":"created new stream","id":"bwjxncvi"}
+{"time":"2025-06-22T12:27:54.363591148Z","level":"INFO","msg":"stream: started","id":"bwjxncvi"}
+{"time":"2025-06-22T12:27:54.363661347Z","level":"INFO","msg":"writer: Do: started","stream_id":"bwjxncvi"}
+{"time":"2025-06-22T12:27:54.363731306Z","level":"INFO","msg":"handler: started","stream_id":"bwjxncvi"}
+{"time":"2025-06-22T12:27:54.363738665Z","level":"INFO","msg":"sender: started","stream_id":"bwjxncvi"}
+{"time":"2025-06-22T12:27:54.602205664Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T12:27:54.928068774Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T12:27:54.928101335Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T12:27:55.902059312Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T12:27:55.924551942Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.022413701}],"total_operations":1}}
+{"time":"2025-06-22T12:27:56.200410766Z","level":"INFO","msg":"stream: closing","id":"bwjxncvi"}
+{"time":"2025-06-22T12:27:56.200416799Z","level":"INFO","msg":"handler: closed","stream_id":"bwjxncvi"}
+{"time":"2025-06-22T12:27:56.200420428Z","level":"INFO","msg":"writer: Close: closed","stream_id":"bwjxncvi"}
+{"time":"2025-06-22T12:27:56.200450684Z","level":"INFO","msg":"sender: closed","stream_id":"bwjxncvi"}
+{"time":"2025-06-22T12:27:56.200453461Z","level":"INFO","msg":"stream: closed","id":"bwjxncvi"}
