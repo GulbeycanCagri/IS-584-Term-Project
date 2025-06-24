@@ -13,7 +13,7 @@ However, all run logs and artifacts are available locally under the `wandb/` dir
 ---
 
 ## 📁 Project Structure
-
+```
 IS-584-TERM-PROJECT/
 ├── data/ # dataset.zip (not committed due to GitHub size limits)
 ├── notebooks/ # All Jupyter notebooks used for development
@@ -25,7 +25,7 @@ IS-584-TERM-PROJECT/
 ├── requirements.txt # Python package requirements
 ├── .gitignore # Git ignore rules
 └── README.md # You're here!
-
+```
 
 ---
 
