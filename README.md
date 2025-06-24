@@ -15,15 +15,15 @@ However, all run logs and artifacts are available locally under the `wandb/` dir
 ## 📁 Project Structure
 
 IS-584-TERM-PROJECT/
-├── data/ # dataset.zip due to Github size constraints
+├── data/ # dataset.zip (not committed due to GitHub size limits)
 ├── notebooks/ # All Jupyter notebooks used for development
 │ ├── Baselines.ipynb # TF-IDF, Logistic Regression, SBERT baselines
 │ ├── few-shot-learning.ipynb # Prompt-based classification experiments
-│ ├── PreeliminaryResults.ipynb # Initial exploratory runs
-│ ├── TermProjectFineTune.ipynb # Final LoRA fine-tuning and SHAP analysis
+│ ├── PreliminaryResults.ipynb # Initial exploratory runs
+│ └── TermProjectFineTune.ipynb # Final LoRA fine-tuning and SHAP analysis
 ├── wandb/ # Weights & Biases logs
 ├── requirements.txt # Python package requirements
-├── .gitignore
+├── .gitignore # Git ignore rules
 └── README.md # You're here!
 
 
