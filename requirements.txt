@@ -1,20 +1,28 @@
-# Core libraries
+# Core deep learning
 torch==2.7.0
 transformers==4.52.3
-sentence-transformers==4.1.0
 peft==0.10.0
+bitsandbytes==0.42.0
+accelerate==0.30.1
 
-# ML & preprocessing
-scikit-learn==1.6.1
-numpy==2.2.6
+# Tokenization & model I/O
+sentence-transformers==4.1.0
+
+# Data handling
 pandas==2.2.3
-
-# Utility
-tqdm==4.67.1
+numpy==2.2.6
+scikit-learn==1.6.1
 python-dateutil>=2.8.2
+
+# ML evaluation & explainability
+shap==0.44.1
+matplotlib>=3.8.4
+
+# Utilities
+tqdm==4.67.1
 requests==2.32.3
 pyyaml>=5.1
 typing_extensions>=4.5.0
 
-# Logging
+# Experiment tracking
 wandb==0.16.6

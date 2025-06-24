@@ -1,0 +1,8 @@
+{"time":"2025-06-24T17:09:30.399703653Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpfc3zhvox/port-77474.txt","pid":77474,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-24T17:09:30.40649268Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":77474}
+{"time":"2025-06-24T17:09:30.406475467Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":41327,"Zone":""}}
+{"time":"2025-06-24T17:09:30.581273189Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:37704"}
+{"time":"2025-06-24T17:09:30.584102928Z","level":"INFO","msg":"handleInformInit: received","streamId":"m09tvyzw","id":"127.0.0.1:37704"}
+{"time":"2025-06-24T17:09:30.717800861Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"m09tvyzw","id":"127.0.0.1:37704"}
+{"time":"2025-06-24T17:37:52.293154371Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"m09tvyzw","id":"127.0.0.1:37704"}
+{"time":"2025-06-24T17:37:52.293275505Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"m09tvyzw","id":"127.0.0.1:37704"}

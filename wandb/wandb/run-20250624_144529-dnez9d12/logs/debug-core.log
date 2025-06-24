@@ -1,0 +1,15 @@
+{"time":"2025-06-24T14:45:29.302821368Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpgca6dlv7/port-76748.txt","pid":76748,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-24T14:45:29.309637812Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":76748}
+{"time":"2025-06-24T14:45:29.309623375Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":39403,"Zone":""}}
+{"time":"2025-06-24T14:45:29.48396043Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:29.489946604Z","level":"INFO","msg":"handleInformInit: received","streamId":"dnez9d12","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:29.634156577Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"dnez9d12","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:33.442662795Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"dnez9d12","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:33.4428037Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"dnez9d12","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:34.441216979Z","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:34.441259778Z","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:34.441271235Z","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-24T14:45:34.441305931Z","level":"INFO","msg":"connection: closing","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:34.44138053Z","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:34.441408129Z","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:39998"}
+{"time":"2025-06-24T14:45:34.441422755Z","level":"INFO","msg":"server is closed"}

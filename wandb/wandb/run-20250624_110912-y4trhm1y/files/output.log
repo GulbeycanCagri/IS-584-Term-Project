@@ -1,0 +1,4 @@
+/tmp/ipython-input-12-645727591.py:108: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+[34m[1mwandb[0m: [33mWARNING[0m Config item 'learning_rate' was locked by 'sweep' (ignored update).
+Test Set Evaluation: {'eval_loss': 0.6586534380912781, 'eval_accuracy': 0.8301158301158301, 'eval_precision': 0.7872340425531915, 'eval_recall': 0.6568047337278107, 'eval_f1': 0.7161290322580646, 'eval_auc': 0.8884471270409116, 'eval_runtime': 12.444, 'eval_samples_per_second': 41.627, 'eval_steps_per_second': 10.447, 'epoch': 10.0}

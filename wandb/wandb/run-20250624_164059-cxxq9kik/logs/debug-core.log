@@ -1,0 +1,15 @@
+{"time":"2025-06-24T16:40:59.724029214Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpej58287d/port-77474.txt","pid":77474,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-24T16:40:59.731648249Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":77474}
+{"time":"2025-06-24T16:40:59.731617744Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":40829,"Zone":""}}
+{"time":"2025-06-24T16:40:59.90548134Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T16:40:59.90946402Z","level":"INFO","msg":"handleInformInit: received","streamId":"cxxq9kik","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T16:41:00.045998486Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"cxxq9kik","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T17:09:28.563246387Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"cxxq9kik","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T17:09:28.563379036Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"cxxq9kik","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T17:09:29.560496078Z","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T17:09:29.560536789Z","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T17:09:29.56054457Z","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-24T17:09:29.560573175Z","level":"INFO","msg":"connection: closing","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T17:09:29.560677843Z","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T17:09:29.560703523Z","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:45848"}
+{"time":"2025-06-24T17:09:29.560715317Z","level":"INFO","msg":"server is closed"}

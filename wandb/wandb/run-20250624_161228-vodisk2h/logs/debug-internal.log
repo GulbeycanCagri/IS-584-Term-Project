@@ -1,0 +1,16 @@
+{"time":"2025-06-24T16:12:28.817922143Z","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/content/wandb/run-20250624_161228-vodisk2h/logs/debug-core.log"}
+{"time":"2025-06-24T16:12:28.953046794Z","level":"INFO","msg":"stream: created new stream","id":"vodisk2h"}
+{"time":"2025-06-24T16:12:28.953103742Z","level":"INFO","msg":"stream: started","id":"vodisk2h"}
+{"time":"2025-06-24T16:12:28.953165533Z","level":"INFO","msg":"writer: Do: started","stream_id":"vodisk2h"}
+{"time":"2025-06-24T16:12:28.95322081Z","level":"INFO","msg":"sender: started","stream_id":"vodisk2h"}
+{"time":"2025-06-24T16:12:28.953205151Z","level":"INFO","msg":"handler: started","stream_id":"vodisk2h"}
+{"time":"2025-06-24T16:12:29.331220542Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-24T16:40:53.476755873Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-24T16:40:53.476850446Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-24T16:40:53.66137644Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-24T16:40:53.742162756Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-06-24T16:40:53.74818541Z","level":"INFO","msg":"stream: closing","id":"vodisk2h"}
+{"time":"2025-06-24T16:40:53.748206589Z","level":"INFO","msg":"handler: closed","stream_id":"vodisk2h"}
+{"time":"2025-06-24T16:40:53.748216857Z","level":"INFO","msg":"writer: Close: closed","stream_id":"vodisk2h"}
+{"time":"2025-06-24T16:40:53.748240875Z","level":"INFO","msg":"sender: closed","stream_id":"vodisk2h"}
+{"time":"2025-06-24T16:40:53.748290855Z","level":"INFO","msg":"stream: closed","id":"vodisk2h"}

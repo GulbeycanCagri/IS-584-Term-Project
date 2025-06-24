@@ -1,0 +1,15 @@
+{"time":"2025-06-24T12:55:36.18050651Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp8z_oluts/port-48213.txt","pid":48213,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-24T12:55:36.187103914Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":48213}
+{"time":"2025-06-24T12:55:36.187079322Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":33513,"Zone":""}}
+{"time":"2025-06-24T12:55:36.362787327Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T12:55:36.368478202Z","level":"INFO","msg":"handleInformInit: received","streamId":"nkiukhnq","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T12:55:36.50716405Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"nkiukhnq","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T13:23:59.921415036Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"nkiukhnq","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T13:23:59.921552665Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"nkiukhnq","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T13:24:02.9207191Z","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T13:24:02.920787864Z","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T13:24:02.920795743Z","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-24T13:24:02.92084551Z","level":"INFO","msg":"connection: closing","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T13:24:02.92096205Z","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T13:24:02.920988556Z","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:54228"}
+{"time":"2025-06-24T13:24:02.921000981Z","level":"INFO","msg":"server is closed"}

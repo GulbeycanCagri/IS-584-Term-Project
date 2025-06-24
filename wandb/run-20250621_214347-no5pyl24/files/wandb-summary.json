@@ -1,1 +1,0 @@
-{"test_recall":0,"validation_auc":0.5,"_timestamp":1.7505423758095365e+09,"_runtime":148.710861332,"test_f1":0,"validation_precision":0,"test_accuracy":0.6737451737451737,"validation_accuracy":0.6718146718146718,"validation_recall":0,"test_precision":0,"_wandb":{"runtime":148},"_step":1,"test_auc":0.5,"validation_f1":0}

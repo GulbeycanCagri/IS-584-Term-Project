@@ -1,0 +1,15 @@
+{"time":"2025-06-24T10:38:44.875276101Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpje1jl0r4/port-12122.txt","pid":12122,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-24T10:38:44.884415143Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":12122}
+{"time":"2025-06-24T10:38:44.884377568Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":41805,"Zone":""}}
+{"time":"2025-06-24T10:38:45.056325292Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T10:38:45.061614576Z","level":"INFO","msg":"handleInformInit: received","streamId":"gltomj2f","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T10:38:45.19721136Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"gltomj2f","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T11:07:25.885338674Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"gltomj2f","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T11:07:25.885464307Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"gltomj2f","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T11:07:30.887079179Z","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T11:07:30.887128513Z","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T11:07:30.887135982Z","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-24T11:07:30.887185885Z","level":"INFO","msg":"connection: closing","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T11:07:30.887293146Z","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T11:07:30.887302133Z","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:51230"}
+{"time":"2025-06-24T11:07:30.887312062Z","level":"INFO","msg":"server is closed"}

@@ -1,0 +1,15 @@
+{"time":"2025-06-24T15:15:36.881216334Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp004skgta/port-77474.txt","pid":77474,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-06-24T15:15:36.888382985Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":77474}
+{"time":"2025-06-24T15:15:36.888346327Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":41735,"Zone":""}}
+{"time":"2025-06-24T15:15:37.063686162Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:15:37.068189488Z","level":"INFO","msg":"handleInformInit: received","streamId":"azs4byhl","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:15:37.205858916Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"azs4byhl","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:43:55.804419918Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"azs4byhl","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:43:55.804559426Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"azs4byhl","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:43:57.802407688Z","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:43:57.802449788Z","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:43:57.802457264Z","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-06-24T15:43:57.802484867Z","level":"INFO","msg":"connection: closing","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:43:57.802584085Z","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:43:57.802604967Z","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:51964"}
+{"time":"2025-06-24T15:43:57.802617152Z","level":"INFO","msg":"server is closed"}

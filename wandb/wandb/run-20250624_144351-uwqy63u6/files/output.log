@@ -1,0 +1,2 @@
+/tmp/ipython-input-12-3478977616.py:108: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
